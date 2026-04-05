@@ -2,24 +2,6 @@
 Designed and implementing a multi-node infrastructure setup using Terraform and Vault to simulate real-world DevOps workflows.
 
 
-infra-vault-project/
-│
-├── terraform/
-│   ├── main.tf
-│   ├── variables.tf
-│
-├── vault/
-│   ├── setup_vault.sh
-│   ├── policies.hcl
-│
-├── jenkins/
-│   ├── Jenkinsfile
-│
-├── scripts/
-│   ├── provision.sh
-│   ├── deploy.sh
-│
-├── app/
-│   ├── app.py
-│
-├── README.md
+## Folder stracture
+  [🗃️ Check It Here ](./docs/1_folderStracture.md)
+
