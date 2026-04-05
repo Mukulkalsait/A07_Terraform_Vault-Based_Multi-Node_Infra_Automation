@@ -3,5 +3,5 @@ Designed and implementing a multi-node infrastructure setup using Terraform and 
 
 
 ## Folder stracture
-  [🗃️ Check It Here ](./docs/1_folderStracture.md)
+  * 🗃️ [Check It Here](./docs/1_folderStracture.md)
 
