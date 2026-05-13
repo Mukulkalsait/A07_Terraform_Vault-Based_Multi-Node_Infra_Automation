@@ -1,6 +1,6 @@
 terraform{
   required_providers {
-    lxd {
+    lxd =  {
       source  = "terrarform-lxd/lxc"
       version = ">= 1.7.0"
     }
