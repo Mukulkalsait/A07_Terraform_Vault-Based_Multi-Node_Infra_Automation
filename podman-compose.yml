@@ -12,7 +12,7 @@ services:
     cap_add:
       - IPC_LOCK
     volumes:
-      - .va/data/vault:/vault/file
+      - ./data/vault:/vault/file
       - ./config/vault:/vault/config
     command: vault server -dev
     restart: unless-stopped
