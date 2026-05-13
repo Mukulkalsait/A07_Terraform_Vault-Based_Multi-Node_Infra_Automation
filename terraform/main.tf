@@ -10,7 +10,6 @@ terraform{
 provider "lxd" {
   accept_remote_certificate = true
 
-; each remote = 1 host
   remote{
     name = "ubuntu-server"
     address = "https://192.168.1.2:8443"
